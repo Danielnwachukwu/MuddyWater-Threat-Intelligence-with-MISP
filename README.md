@@ -507,10 +507,30 @@ The following resources were consulted during the deployment of MISP, the invest
 
 - **IOC_Data/MuddyWater_IOCs.csv** — Exported Indicators of Compromise (IOCs) collected during the investigation.
 - **Reports/MuddyWater_Threat_Intelligence_Investigation_Report.pdf** — Comprehensive Threat Intelligence Investigation Report.
-- **Resources/references.md** — Supporting notes and additional references used throughout the project.
+For a complete list of references used during this investigation, see the following document:
 
+📄 **[references.md](Resources/references.md)**
 ---
 
 > **Disclaimer:** This project was developed for educational and portfolio purposes to demonstrate practical Threat Intelligence investigation techniques using publicly available threat intelligence. The Indicators of Compromise (IOCs) and threat intelligence referenced in this repository were obtained from community intelligence sources available through MISP and should be independently validated before use in production environments.
 >
-> 
+> ## 📄 License
+
+This project is licensed under the **MIT License**, allowing anyone to use, modify, and distribute the project with appropriate attribution.
+
+For complete license terms, see the **[LICENSE](LICENSE)** file included in this repository.
+
+## 👨‍💻 Author
+
+**Daniel Nwachukwu**
+
+SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM Engineering
+
+### Connect with Me
+
+- **LinkedIn:** [Daniel Nwachukwu](https://www.linkedin.com/in/danielnwachukwu-soc/)
+- **GitHub:** [DanielNwachukwu](https://github.com/DanielNwachukwu)
+
+---
+
+If you found this project helpful or interesting, feel free to ⭐ the repository or connect with me on LinkedIn.
