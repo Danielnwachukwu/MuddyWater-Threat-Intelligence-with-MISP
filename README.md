@@ -15,3 +15,20 @@ This project demonstrates how the **Malware Information Sharing Platform (MISP)*
 The project was conducted as a practical Threat Intelligence investigation for **SecureOps Cybersecurity Inc.**, simulating how a Security Operations Center (SOC) or Threat Intelligence Team would collect, enrich, and analyze intelligence to support proactive cyber defense.
 
 ---
+
+## 📌 Business Challenge
+
+SecureOps Cybersecurity Inc. supports organizations operating in government, finance, healthcare, and critical infrastructure sectors across Europe. The organization faces an increasingly sophisticated threat landscape driven by Advanced Persistent Threat (APT) groups targeting strategic assets through phishing campaigns, malware deployment, and infrastructure compromise.
+
+One of the most prominent threat actors affecting SecureOps' clients is **MuddyWater**, an Iranian state-sponsored APT known for conducting espionage operations against government agencies, telecommunications providers, defense organizations, and critical infrastructure.
+
+The growing volume of Indicators of Compromise (IOCs) collected from multiple intelligence sources created several operational challenges:
+
+- Difficulty correlating threat intelligence from multiple community feeds.
+- Delayed identification of malicious infrastructure.
+- Limited visibility into adversary tactics, techniques, and procedures (TTPs).
+- Slow production of actionable intelligence for incident responders and SOC analysts.
+
+To address these challenges, SecureOps deployed the **Malware Information Sharing Platform (MISP)** to centralize threat intelligence, correlate Indicators of Compromise (IOCs), enrich threat data, and profile the MuddyWater threat actor using community intelligence feeds and MITRE ATT&CK mappings.
+
+This project demonstrates how threat intelligence platforms can improve an organization's ability to identify, investigate, and respond to nation-state cyber threats through structured intelligence analysis.
